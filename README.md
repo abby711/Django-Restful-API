@@ -1,1 +1,1 @@
-# Django-Restful-API
+A simple RESTful WebAPI using Django
