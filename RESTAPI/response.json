@@ -1,1 +1,27 @@
-[object Object]
+
+[
+    {
+        "id": 1,
+        "name": "abirami",
+        "regno": "312318205007",
+        "dept": "IT",
+        "year": 3,
+        "email": "abby@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "kundana",
+        "regno": "312310184044",
+        "dept": "CS",
+        "year": 3,
+        "email": "kundana@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Sharon",
+        "regno": "312318184144",
+        "dept": "CS",
+        "year": 3,
+        "email": "sharon@gmail.com"
+    }
+]
